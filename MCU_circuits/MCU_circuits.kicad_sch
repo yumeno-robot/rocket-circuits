@@ -12478,7 +12478,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "TEENSY_4.1_to_MD"
+		(property "Value" "connect"
 			(at 246.38 299.7199 0)
 			(effects
 				(font
@@ -15275,7 +15275,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "TEENSY_4.1_to_COLOR"
+		(property "Value" "connect"
 			(at 49.53 255.2699 0)
 			(effects
 				(font
@@ -19873,7 +19873,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "TEENSY_4.1_to_UI"
+		(property "Value" "connect"
 			(at 433.07 231.1399 0)
 			(effects
 				(font
